@@ -1,7 +1,7 @@
 # ESPboy_ByteBeat
-ByteBeat sample
+ByteBeat sample released to use "one string code" procedural music in the games and for fun ) 
 
-/*
+
 ESPboy ByteBeat demo
 for www.ESPboy.com project
 RomanS 13.05.2022
@@ -14,4 +14,4 @@ https://github.com/TuesdayNightMachines/Bytebeats
 
 ByteBeat player
 http://langtons.atspace.com/audio/waveform.html
-*/
+
